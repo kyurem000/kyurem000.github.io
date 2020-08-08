@@ -20,7 +20,7 @@ words_per_minute         : 200 # 해당 포스트 읽는데 걸리는 시간을 
 author:
   name             : "박지윤" 
   avatar           : "/assets/img/gecko.jpg" # 프로필 이미지
-  bio              : "프론트엔드 개발자가 꿈입니다. <br> ^^"
+  bio              : "프론트엔드 개발자가 꿈입니다. <br> ^^ <br> 2020.08.08 개설"
   location         : "Republic of Korea"
   email            : "hanapsk61@gmail.com"
   links:
