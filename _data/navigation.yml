@@ -13,11 +13,13 @@
 #   #   url: /sitemap/
 
 main:
-  - title: "Categories"
+  - title: "카테고리 준비중.."
     url: /categories/
-  - title: "Tags"
+  - title: "Tags 준비중.."
     url: /tags/
-  - title: "About"
+  - title: "About 준비중.."
     url: /about/
-  - title: "연도별 포스트"
+  - title: "연도별 포스트 준비중.."
     url: /posts/
+
+# url에 .html이나 .md 파일 만들어서 연동하도록 하자 2020월 8월 8일 기록 
